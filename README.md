@@ -1,10 +1,15 @@
 # My-Profile
 # 💫 About Me:
-🔭 💻 I’m currently pursuing my **MCA at Presidency College, Bangalore.** <br>
-👯 I’m looking to collaborate on **innovative web development projects** using **Core Java, HTML, CSS, and SQL.** <br>
-🤝 I’m seeking guidance to **enhance my backend programming and database optimization skills.** <br>
-🌱 I’m currently learning **advanced Java concepts**, **database management**, and building **responsive web interfaces.** <br>
-💬 Ask me about **Java programming, web design, database handling, and logic building in C.** <br>
+🔭 💻 I’ve recently graduated with a B.E. in Information Science and Engineering (ISE) from Shri Siddhartha Institute of Technology.
+
+👯 I’m looking to collaborate on innovative web development projects using Core Java, HTML, CSS, and SQL.
+
+🤝 I’m seeking guidance to enhance my backend programming and database optimization skills.
+
+🌱 I’m currently learning advanced Java concepts, database management, and building responsive web interfaces.
+
+💬 Ask me about Java programming, web design, database handling, and logic building in C.
+
 ⚡ Fun fact: I enjoy turning creative ideas into functional web pages and exploring efficient coding techniques!
 
 
